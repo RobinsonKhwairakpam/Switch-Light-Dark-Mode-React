@@ -1,0 +1,24 @@
+main {
+    padding: 60px 30px;
+    height: 100%;
+    font-size: 1.1rem;
+}
+
+main.dark {
+    background-color: #282D35;
+    color: white;
+}
+
+main li {
+    margin-top: 40px;
+}
+
+main h2 {
+    margin-left: 10px;
+    font-size: 1.5em;
+}
+
+main  li::marker {
+    color: #61DAFB;
+    font-size: 1.1rem;
+}
